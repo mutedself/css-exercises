@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+    font-size: 24px;
+}
+#oneid {
+    color: blue;
+    font-size: 36px;
+}
+#idtwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
